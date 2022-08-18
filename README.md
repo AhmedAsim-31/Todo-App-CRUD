@@ -2,6 +2,8 @@
 
 Flutter application for managing daily life tasks.
 
+#### Flow Diagram ####
+
 #### TODO App ####
 
 - User can create tasks
