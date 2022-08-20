@@ -15,7 +15,7 @@ By swiping to the right on the task, user can click on the green edit button to 
 #### - Delete tasks ####
 Just like editing task, user can swipe to the left and click on red delete button. A confirmation dialog will pop before deleting the task
 #### - Mark tasks as done or pending ####
-User can mard his tasks done or pending by checking the checkbox on the left of task title. On marking it as done, the task will be moved to completed tasks screen and vice versa.
+User can mark his tasks done or pending by checking the checkbox on the left of task title. On marking it as done, the task will be moved to completed tasks screen and vice versa.
 #### - Edit any task ####
 User can edit all of his tasks, whether it is done or pending. 
 
