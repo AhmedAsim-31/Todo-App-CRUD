@@ -1,4 +1,4 @@
-# Todo-App-CRUD
+# TODO APP
 
 Flutter application for managing daily life tasks.
 
