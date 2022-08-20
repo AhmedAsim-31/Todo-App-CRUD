@@ -7,9 +7,8 @@ Flutter application for managing daily life tasks.
 
 Opening the app, user is welcomed to Homescreen where all of his pending tasks are displayed. User can either create new tasks by clicking the floating icon button, or he can edit/delete existing tasks by swiping right/left on the task. When the user checks the box next to task, the task is marked as done and is moved to the completed tasks screen. User can specify Task title, description and task due date while creating a new task. User can also edit/delete tasks on the completed tasks screen.
 
-The user can also delete tasks by swiping to the left on the task.
 
-#### TODO App ####
+#### - User can create tasks ####
 
 - User can create tasks
 - User can edit tasks
