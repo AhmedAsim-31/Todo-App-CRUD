@@ -11,6 +11,8 @@ Opening the app, user is welcomed to Homescreen where all of his pending tasks a
 
 #### - Create tasks ####
 User can create new tasks by specifying task title, its description and setting due date/time for the task.
+#### - Read tasks ####
+User can will be able to read his pending and done tasks
 #### - Edit tasks ####
 By swiping to the right on the task, user can click on the green edit button to edit task title/description or due date/time
 #### - Delete tasks ####
@@ -23,4 +25,4 @@ User can edit all of his tasks, whether it is done or pending.
 
 ## Video defining the use cases one by one
 
-[![Watch the video]](https://youtu.be/7OIsRlqQKjo)
+[![Watch the video](https://i.ytimg.com/vi/Bkj--nkp7-U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLDuWpSbrWpFKDJiMIkxwQ_bovTjBg)](https://youtu.be/Bkj--nkp7-U)
